@@ -26,7 +26,7 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "@financial-times/health-check": "^2.1.6",
+    "@financial-times/health-check": "^2.1.8",
     "@financial-times/origami-service": "^5.0.1",
     "@financial-times/origami-service-makefile": "^7.0.3",
     "@financial-times/source-param-middleware": "^2.0.0",
@@ -37,7 +37,7 @@
     "http-errors": "^1",
     "request": "^2.88.2",
     "require-all": "^3",
-    "snyk": "^1.425.4",
+    "snyk": "^1.455.0",
     "statuses": "^2.0.1",
     "throng": "^4.0.0"
   },
@@ -45,7 +45,7 @@
     "@financial-times/grafana-tools": "^2.0.1",
     "eslint": "^7.20.0",
     "istanbul": "^0.4",
-    "mocha": "^8",
+    "mocha": "^8.3.0",
     "mockery": "^2",
     "nodemon": "^2.0.7",
     "proclaim": "^3.6.0",
